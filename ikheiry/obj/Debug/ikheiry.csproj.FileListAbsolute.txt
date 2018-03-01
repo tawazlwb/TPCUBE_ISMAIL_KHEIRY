@@ -1,0 +1,7 @@
+D:\OneDrive - SQLI\INGETIS 2017 2018\4ESI - Cours\JAVA J2EE - Guerfi\TPs\TPCUBE\TPCUBE_ISMAIL_KHEIRY\ikheiry\bin\Debug\ikheiry.exe.config
+D:\OneDrive - SQLI\INGETIS 2017 2018\4ESI - Cours\JAVA J2EE - Guerfi\TPs\TPCUBE\TPCUBE_ISMAIL_KHEIRY\ikheiry\bin\Debug\ikheiry.exe
+D:\OneDrive - SQLI\INGETIS 2017 2018\4ESI - Cours\JAVA J2EE - Guerfi\TPs\TPCUBE\TPCUBE_ISMAIL_KHEIRY\ikheiry\bin\Debug\ikheiry.pdb
+D:\OneDrive - SQLI\INGETIS 2017 2018\4ESI - Cours\JAVA J2EE - Guerfi\TPs\TPCUBE\TPCUBE_ISMAIL_KHEIRY\ikheiry\obj\Debug\ikheiry.csproj.CoreCompileInputs.cache
+D:\OneDrive - SQLI\INGETIS 2017 2018\4ESI - Cours\JAVA J2EE - Guerfi\TPs\TPCUBE\TPCUBE_ISMAIL_KHEIRY\ikheiry\obj\Debug\ikheiry.exe
+D:\OneDrive - SQLI\INGETIS 2017 2018\4ESI - Cours\JAVA J2EE - Guerfi\TPs\TPCUBE\TPCUBE_ISMAIL_KHEIRY\ikheiry\obj\Debug\ikheiry.pdb
+D:\OneDrive - SQLI\INGETIS 2017 2018\4ESI - Cours\JAVA J2EE - Guerfi\TPs\TPCUBE\TPCUBE_ISMAIL_KHEIRY\ikheiry\obj\Debug\ikheiry.csprojResolveAssemblyReference.cache
